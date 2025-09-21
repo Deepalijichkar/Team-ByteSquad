@@ -1,0 +1,14 @@
+streamlit
+requests
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+openai
+pdfplumber
+python-docx
+sqlalchemy
+rapidfuzz
+pandas
+numpy
