@@ -18,7 +18,7 @@ st.set_page_config(
 # HEADER WITH LOGO
 # ========================
 try:
-    logo = Image.open("logo.png")  # Add your logo in root
+    logo = Image.open("logo1.png")  # Add your logo in root
     st.image(logo, width=120)
 except:
     pass
