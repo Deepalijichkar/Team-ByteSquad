@@ -6,7 +6,7 @@ import requests
 # CONFIG
 # ========================
 # Replace this with your live FastAPI backend URL once deployed
-FASTAPI_URL = "http://127.0.0.1:8000"  # local testing
+FASTAPI_URL = "https://web-production-c05ed.up.railway.app"  # local testing
 # Example for deployed backend: "https://team-bytesquad.onrender.com"
 
 st.set_page_config(page_title="Team ByteSquad", layout="centered")
